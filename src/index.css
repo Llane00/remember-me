@@ -6,3 +6,12 @@ body {
   min-height: 100vh;
   font-family: Helvetica;
 }
+
+input,
+button {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.App {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);  
+}
