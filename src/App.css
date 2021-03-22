@@ -1,3 +1,7 @@
+.App {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);  
+}
+
 svg {
   width: 200px;
   position: relative;
